@@ -1,0 +1,7 @@
+C:\Users\Deangelo\source\repos\IndividualGameProject\bin\Debug\IndividualGameProject.exe.config
+C:\Users\Deangelo\source\repos\IndividualGameProject\bin\Debug\IndividualGameProject.exe
+C:\Users\Deangelo\source\repos\IndividualGameProject\bin\Debug\IndividualGameProject.pdb
+C:\Users\Deangelo\source\repos\IndividualGameProject\obj\Debug\IndividualGameProject.csprojAssemblyReference.cache
+C:\Users\Deangelo\source\repos\IndividualGameProject\obj\Debug\IndividualGameProject.csproj.CoreCompileInputs.cache
+C:\Users\Deangelo\source\repos\IndividualGameProject\obj\Debug\IndividualGameProject.exe
+C:\Users\Deangelo\source\repos\IndividualGameProject\obj\Debug\IndividualGameProject.pdb
